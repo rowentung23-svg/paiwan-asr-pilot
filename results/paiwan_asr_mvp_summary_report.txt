@@ -1,0 +1,15 @@
+北排灣語 ASR MVP baseline/error analysis
+================================================
+資料筆數：plants=55，sentences=10，total=65
+發音人：['F02']
+
+模型摘要：
+- plants / FormosanBank/formosan-asr-paiwan: avg WER=52.73%, avg CER=12.32%, exact=27/55 (49.09%)
+- plants / Whisper large-v3: avg WER=149.09%, avg CER=68.98%, exact=2/55 (3.64%)
+- sentences / FormosanBank/formosan-asr-paiwan: avg WER=21.83%, avg CER=4.67%, exact=5/10 (50.0%)
+- sentences / Whisper large-v3: avg WER=99.17%, avg CER=58.81%, exact=0/10 (0.0%)
+
+方法限制：
+- 本實驗為逐筆切割音檔 baseline 測試，尚未進行 forced alignment 或音素層級標註。
+- error_type 為初步規則分類，正式論文前需由族語專家檢核。
+- 目前只有 F02 音檔；F01 音檔加入後，應分發音人統計，不宜直接混成單一分數。

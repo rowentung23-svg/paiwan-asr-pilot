@@ -1,0 +1,61 @@
+# 植物篇 Reference Transcript（排灣語參考逐字稿）
+# 音檔：植物_pure_paiwan.mp3（植物_15595.aac 轉檔）
+# 說話者：家族成員（北排灣布曹爾亞族）
+# 詞彙數：55 個排灣語植物詞彙
+# 用途：ASR WER 評估用參考文本（純排灣語，不含中文語音）
+
+veljevelj
+paday
+kasiv
+vasa
+tjevus
+asav
+vurasi
+tjianes
+vuciyar
+ljasiak
+cemecemel
+ljapanay
+saviki
+'au
+ricing
+vangalj
+cuvu'
+ngilngil
+pangudralj
+cemel
+vaudj
+'udis
+lisi
+vangalj
+'apulu
+djarunu'
+tjakiyam
+kapaz
+kavaluan
+'aynguay
+vuas
+lukuc
+daykung
+'ingcay
+'arizang
+mugi
+nigi
+cuvu'
+tukisu
+'a'ilj
+taleng
+vunavun
+tjaljayan
+tjavuvuk
+mukav
+djuys
+ljakidjur
+ljivanger
+puk
+kamurav
+menavung
+silji
+mua
+vurasi
+navatj
